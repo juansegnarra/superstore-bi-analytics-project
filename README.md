@@ -2,17 +2,27 @@
 
 Interactive Business Intelligence dashboard analyzing sales performance, profitability drivers, and logistics efficiency using a dimensional data model (Star Schema).
 
-📊 Dashboard Preview
-🏠 Executive Overview
+## 📊 Dashboard Preview
 
-💰 Sales Overview
+### 🏠 Executive Overview
+![Executive Overview](dashboard-cover.png)
 
-📈 Profitability Analysis
+---
 
-👥 Customer Analysis
+### 💰 Sales Overview
+![Sales Overview](dashboard-sales-overview.png)
 
-📌 Business Objective
+---
 
+### 📈 Profitability Analysis
+![Profitability Analysis](dashboard-profitability-analysis.png)
+
+---
+
+### 👥 Customer Analysis
+![Customer Analysis](dashboard-customer-analysis.png)
+
+---
 This project analyzes transactional sales and shipping data from Superstore to identify profitability drivers, operational inefficiencies, and commercial performance patterns.
 
 The objective is to provide data-driven insights that support operational, tactical, and strategic decision-making.
