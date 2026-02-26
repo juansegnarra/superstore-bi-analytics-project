@@ -1,4 +1,16 @@
 📊 Superstore Sales & Logistics Analytics – Power BI Project
+
+Interactive Business Intelligence dashboard analyzing sales performance, profitability drivers, and logistics efficiency using a dimensional data model (Star Schema).
+
+📊 Dashboard Preview
+🏠 Executive Overview
+
+💰 Sales Overview
+
+📈 Profitability Analysis
+
+👥 Customer Analysis
+
 📌 Business Objective
 
 This project analyzes transactional sales and shipping data from Superstore to identify profitability drivers, operational inefficiencies, and commercial performance patterns.
@@ -119,9 +131,9 @@ KPI Development
 
 📂 Repository Contents
 
-PROYECTO FINAL JUAN SEGUNDO GNARRA.pbix → Power BI file
+superstore-sales-logistics-dashboard.pbix → Power BI file
 
-Análisis de Ventas y Envíos en Superstore.pdf → Project documentation
+superstore-sales-logistics-analysis.pdf → Project documentation
 
 Dashboard screenshots
 
